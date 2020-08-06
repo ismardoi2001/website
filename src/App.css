@@ -3,7 +3,7 @@
   margin:  0;
   padding: 0;
   box-sizing:  border-box;
-  background-image: url('../src/Images/bg1.png');
+  background-image: url('');
   background-repeat: no-repeat;
   background-size: 100%;
 
@@ -62,8 +62,8 @@ header{
 .left-sec h2{
   font-size: 20px;
   text-transform: capitalize;
-  font-weight: lighter;
-  color: #242424;
+  font-weight: 500;
+  color: black;
   margin-top: 100px;
 }
 .left-sec h1{
@@ -75,6 +75,8 @@ header{
 }
 .left-sec p{
   margin-bottom: 20px;
+  font-weight: 500;
+  color: black
 }
 .left-sec button{
   padding: 15px 45px;
