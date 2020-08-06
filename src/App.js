@@ -4,6 +4,7 @@ import './App.css';
 
 function App() {
   return (
+    <header>
     <div>
       <div className="mainheader"> 
       <div className="logo">
@@ -19,6 +20,7 @@ function App() {
       </div>
       </div>
     </div>
+    </header>
   );
 }
 
