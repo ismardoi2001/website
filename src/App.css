@@ -51,10 +51,9 @@ header{
 }
 
 .main .right-sec{
-  padding-right: 250px;
-  background-image: url('../src/Images/bg.png');
-  padding-left: 250px;
-  padding-bottom: 250px;
+  padding-right: 50px;
+  background-image: url('');
+  
 }
 
 .main .left-sec {
