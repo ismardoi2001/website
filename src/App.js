@@ -21,14 +21,14 @@ function App() {
       <main className="main">
       <section className="left-sec">
       <h2> We Are Here For Your Care</h2>
-      <h1>We Are Best Developers</h1>
+      <h1>We AreBest Developers</h1>
       <p> We are here for your care 24/7 just any help call us</p>
       <button> Make An Appointment</button>      
       </section>
 
       <section className="right-sec">
         <figure>
-        <img src=""></img>
+        <img src="'../src/Images/bg1.png"></img>
         </figure>
       </section>
       </main>
