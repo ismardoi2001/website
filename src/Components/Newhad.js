@@ -1,12 +1,11 @@
 import React from 'react'
 import'./styles.css';
 import img5 from "../Images/pineapple.png";
-import img9 from "../Images/facebook.png";
-
 
 export const Newhad = () => {
     return (
         <div>
+        <div></div>
         <div className="banner">
         <div className="left-column">
             <div className="">       
@@ -18,12 +17,7 @@ export const Newhad = () => {
                 <button type="button" class="primary-btn">Learn More</button>
                 <button type="button">Watch Video</button>
             </div>
-            <div class="social-box">
-            <i class="fa fa-facebook"></i>
-            <i class="fa fa-twitter"></i>
-            <i class="fa fa-linkedin"></i>
-            <i class="fa fa-instagram"></i>
-        </div>
+            
         </div>
         <div className="right-column"></div>
         <img src ={img5} alt="img7" className="card2"/>
