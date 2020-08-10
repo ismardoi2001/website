@@ -1,5 +1,7 @@
 import React from 'react'
-import {img7} from '../Images/pineapple.png';
+import'./styles.css';
+import img5 from "../Images/pineapple.png";
+
 
 export const Newhad = () => {
     return (
@@ -25,7 +27,7 @@ export const Newhad = () => {
             </div>
         </div>
         <div className="right-column"></div>
-        <img src ={img7} alt="img7" className="card-img-top"/>
+        <img src ={img5} alt="img7" className="card2"/>
      
     </div>
         </div>

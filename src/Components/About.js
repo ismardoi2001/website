@@ -1,12 +1,10 @@
 import React from 'react'
-
 export const About = () => {
     return (
         <div>
         <section id="about">
     <div className="about container">
       <div className="col-left">
-        
       <div className="about-img">
   
     </div>
