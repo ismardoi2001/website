@@ -18,14 +18,12 @@ export const Newhad = () => {
                 <button type="button" class="primary-btn">Learn More</button>
                 <button type="button">Watch Video</button>
             </div>
-            <div className="social-icon">
-                <img src="/\src/Images/facebook.png"></img>
-                <img src="img/"></img>
-                <img src="img/facebook.png"></img>
-                <img src="img/instagram.png"></img>
-                <img src="img/youtube.png"></img>
-                <img src="img/pinterest.png"></img>
-            </div>
+            <div class="social-box">
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-linkedin"></i>
+            <i class="fa fa-instagram"></i>
+        </div>
         </div>
         <div className="right-column"></div>
         <img src ={img5} alt="img7" className="card2"/>
