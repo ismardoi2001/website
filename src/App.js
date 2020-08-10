@@ -1,36 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Footer } from './Components/Footer';
+import { Contact } from './Components/Contact';
+import { Services } from './Components/Services';
+import { Project } from './Components/Project';
+import { About } from './Components/About';
+import { Heropage } from './Components/Heropage';
+import Bootstr from './Components/Bootstr';
+import { Newhad } from './Components/Newhad';
 
 function App() {
   return (
-    <div>
-      <div className="mainheader"> 
-      <div className="logo">
-      </div>
-      <nav>
-      <a href="@">Home</a>
-      <a href="@">Services</a>
-      <a href="@">About</a>
-      <a href="@">Contact</a>
-      </nav>
-      
-      </div>
-      <main className="main">
-      <section className="left-sec">
-      <h1><span>W</span>e Are Best<span> De</span>velopers</h1>
-      <p> We are here for your help 24/7 just any help call us</p>
-      <button> Make An Appointment</button>      
-      </section>
-
-      <section className="right-sec">
-        <figure>
-        <img src=""></img>
-        </figure>
-      </section>
-      </main>
+  
+    <div> 
+    < Newhad />
+    < Heropage/>
+    < Services/>
+    < Bootstr/>
+    < hero/>
+    < Project/>
+    < About/>
+    < Contact/>
+    < Footer/>
     </div>
-
   );
 }
 
