@@ -1,6 +1,7 @@
 import React from 'react'
 import'./styles.css';
 import img5 from "../Images/pineapple.png";
+import img9 from "../Images/facebook.png";
 
 
 export const Newhad = () => {
