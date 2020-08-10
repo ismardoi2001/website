@@ -5,7 +5,6 @@ import img5 from "../Images/pineapple.png";
 export const Newhad = () => {
     return (
         <div>
-        <div></div>
         <div className="banner">
         <div className="left-column">
             <div className="">       
