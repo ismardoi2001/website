@@ -8,12 +8,16 @@ import { About } from './Components/About';
 //import { Heropage } from './Components/Heropage';
 import Bootstr from './Components/Bootstr';
 import { Newhad } from './Components/Newhad';
+import { Team } from './Components/Team';
 
 function App() {
   return (
   
+  
     <div> 
+    
     < Newhad />
+    < Team />
     < Services/>
     < Bootstr/>
     < hero/>
