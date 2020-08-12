@@ -22,7 +22,8 @@ export const Footer = () => {
             </div>
           </div>
           <p>Copyright © 2020 Muhammad Ismail. All rights reserved</p>
-        </div>
+      
+          </div>
       </section>
         </div>
     )

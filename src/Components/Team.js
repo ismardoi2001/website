@@ -6,6 +6,7 @@ import img12 from "../Images/3.png";
 import img13 from "../Images/4.png";
 
 export const Team = () => {
+    
     return (
         <div>
         <div className="title-box">
