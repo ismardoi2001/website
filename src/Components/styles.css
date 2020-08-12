@@ -135,8 +135,16 @@ span{
 .right-column {
     width: 60px;
     }
-
-.title-box{
+    *{
+        margin: 0;
+        padding: 3px;
+        font-family: 'Dosis',sans-serif;
+    }
+    body{
+        background: #efefef;
+        font-family: sans-serif;
+    }
+    .title-box{
         text-align: center;
         margin: 100px auto 50px;
     }
@@ -154,7 +162,6 @@ span{
         padding: 20px;
         position: relative;
         transition: background 0.5s;
-
     }
     .profile-box img{
         width: 100px;
@@ -162,6 +169,7 @@ span{
         top: 20px;
         right: 20px;
         border-radius: 4px;
+        height: 40px;
     }
     .profile-box h4{
         margin-top: 25px;
@@ -178,21 +186,41 @@ span{
         border-radius: 3px;
         transition: .5s;
     }
-    .social-icon .fa{
+    .social-box .fa{
         margin: 5px;
         color: #fff;
         cursor: pointer;
     }
- .profile-box p{
-     text-align: center;
-     line-height: 24px;
-     color: #555;
-
- }
- .team-row{
-     display: flex;
-     justify-content: space-between;
-     flex-wrap: wrap;
-     width: 85%;
-     margin: auto;
- }
+    .profile-box p{
+        text-align: center;
+        line-height: 24px;
+        color: #555;
+    }
+    .team-row{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        width: 85%;
+        margin: auto;
+    }
+    .profile-box img:hover{
+        width: 240px;
+    }
+    .profile-box:hover{
+        background: #2196f3;
+    }
+    .profile-box:hover h4{
+        color: #fff;
+    }
+    .profile-box:hover p{
+        color: #efefef;
+    }
+    .profile-box:hover small{
+        color: #efefef;
+    }
+    .profile-box:hover .social-box{
+        background: #fff;
+    }
+    .profile-box:hover .social-box .fa{
+        color: #2196f3;
+    }
