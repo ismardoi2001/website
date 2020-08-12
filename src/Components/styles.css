@@ -160,7 +160,6 @@ span{
         position: absolute;
         top: 20px;
         right: 20px;
-        margin-top: -100px;
         border-radius: 4px;
        
     }
@@ -197,7 +196,7 @@ span{
         margin: auto;
     }
     .profile-box img:hover{
-        width: 240px;
+        width: 200px;
     }
     .profile-box:hover{
         background: #2196f3;
