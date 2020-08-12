@@ -156,13 +156,6 @@ span{
         transition: background 0.5s;
 
     }
-    .team-row{
-        display: flex;
-    }
-    .profile-box{
-        display: flex;
-        
-    }
     .profile-box img{
         width: 100px;
         position: absolute;
@@ -178,5 +171,11 @@ span{
     .small{
         color: #555;
     }
-
+    .social-box{
+        background: #2196f3;
+        margin: 60px auto 20px;
+        text-align: center;
+        border-radius: 3px;
+        transition: .5s;
+    }
  
