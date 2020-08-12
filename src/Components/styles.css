@@ -156,6 +156,13 @@ span{
         transition: background 0.5s;
 
     }
+    .team-row{
+        display: flex;
+    }
+    .profile-box{
+        display: flex;
+        
+    }
     .profile-box img{
         width: 100px;
         position: absolute;
