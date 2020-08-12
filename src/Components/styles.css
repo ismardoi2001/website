@@ -178,4 +178,21 @@ span{
         border-radius: 3px;
         transition: .5s;
     }
- 
+    .social-icon .fa{
+        margin: 5px;
+        color: #fff;
+        cursor: pointer;
+    }
+ .profile-box p{
+     text-align: center;
+     line-height: 24px;
+     color: #555;
+
+ }
+ .team-row{
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+     width: 85%;
+     margin: auto;
+ }
