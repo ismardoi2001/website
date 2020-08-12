@@ -8,6 +8,7 @@ export const Project = () => {
           <div className="projects-header">
             <h1 className="section-title">Recent <span>Projects</span></h1>
           </div>
+          
           <div className="all-projects">
             <div className="project-item">
               <div className="project-info">
