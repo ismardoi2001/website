@@ -12,6 +12,7 @@ export const Head = () => {
         <div className="nav-list">
           <div className="hamburger"><div className="bar"></div></div>
           <ul>
+          
             <li><a href="#hero" data-after="Home">Home</a></li>
             <li><a href="#services" data-after="Service">Services</a></li>
             <li><a href="#projects" data-after="Projects">Projects</a></li>

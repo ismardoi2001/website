@@ -25,7 +25,7 @@ const Card = props =>{
     <div className="card-body text-dark">
     <h4 className="card-title">Card title</h4>
     <p className="card-text text-secondary">
-    lorem20 best website
+   Test Website 
     </p>
     <a href="#" className="btn btn-outline-success">Go Anywhere</a>
         </div>
