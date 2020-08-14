@@ -9,7 +9,8 @@ export const Heropage = () => {
                 <h1>My Name is <span></span></h1>
                 <h1>Muhammad Ismail <span></span></h1>
                 <a href="#projects" type="button" class="cta">Portfolio</a>
-              </div>
+             
+             </div>
             </div>
           </section>
 
