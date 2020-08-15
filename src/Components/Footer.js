@@ -11,6 +11,7 @@ export const Footer = () => {
             <div class="social-item">
               <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a>
             </div>
+            
             <div class="social-item">
               <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a>
             </div>
