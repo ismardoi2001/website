@@ -17,6 +17,7 @@ const Card = props =>{
     post  https://www.youtube.com/watch?v=rH9jM-8hAD8    about why tests are important, I’m going, to begin with, mentioning that Exams are only secondarily essential. They’re not the most important things relating to instruction. Education is easily the most significant thing concerning instruction. Exams are merely a single means of quantifying the way profoundly and broadly a person knows something at a certain time period. They’re the only way of acting that comprehension.
     </p>
     <a href="#" className="btn btn-outline-success">Go Anywhere</a>
+    
         </div>
         </div>
 
