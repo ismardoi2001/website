@@ -9,6 +9,7 @@ export const Newhad = () => {
         <div>
         <div className="banner">
         <div className="left-column">
+        
             <div className="">       
             </div>
             <h1>Pine<span>apple</span> </h1>
