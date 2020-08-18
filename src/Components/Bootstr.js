@@ -4,6 +4,7 @@ import img2 from "../Images/shoesstore.png";
 import img3 from "../Images/tinyanimation.png";
 import '../Components/styles.css';
 
+
 const Card = props =>{
     return(
         
@@ -42,6 +43,7 @@ const Card = props =>{
     <a href="#" className="btn btn-outline-success">Go Anywhere</a>
         </div>
         </div>
+   
     </div>
     </div>
     );
