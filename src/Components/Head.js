@@ -16,8 +16,8 @@ export const Head = () => {
             <li><a href="#hero" data-after="Home">Home</a></li>
             <li><a href="#services" data-after="Service">Services</a></li>
             <li><a href="#projects" data-after="Projects">Projects</a></li>
-            <li><a href="#about" data-after="About">About</a></li>
-            <li><a href="#contact" data-after="Contact">Contact</a></li>
+            <li><a href="#about" data-after="About">About Us</a></li>
+            <li><a href="#contact" data-after="Contact">Contact Us</a></li>
           </ul>
         </div>
       </div>
