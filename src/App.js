@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import { Footer } from './Components/Footer';
 import { Contact } from './Components/Contact';
-import { Services } from './Components/Services';
 import { Project } from './Components/Project';
 import { About } from './Components/About';
 //import { Heropage } from './Components/Heropage';
@@ -18,7 +17,6 @@ function App() {
     
     < Newhad />
     < Team />
-    < Services/>
     < Bootstr/>
     < hero/>
     < Project/>
