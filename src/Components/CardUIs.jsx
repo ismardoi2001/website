@@ -7,6 +7,7 @@ import '../Components/styles.css';
 const Card = props =>{
     return(
         
+        
         <div className ="container-fluid d-flex justify-content-center">
         <div className ="row">
         <div className="col-md-4">
