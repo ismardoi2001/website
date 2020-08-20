@@ -2,25 +2,19 @@ import React from 'react';
 import './App.css';
 import { Footer } from './Components/Footer';
 import { Contact } from './Components/Contact';
-import { Project } from './Components/Project';
 import { About } from './Components/About';
-//import { Heropage } from './Components/Heropage';
-import Bootstr from './Components/Bootstr';
 import { Newhad } from './Components/Newhad';
-import { Team } from './Components/Team';
-
+import { Services } from './Components/Services';
+import { Portfolio } from './Components/Portfolio';
+import { Navbar } from 'react-bootstrap';
 function App() {
   return (
-  
-  
     <div> 
-    
     < Newhad />
-    < Team />
-    < Bootstr/>
-    < hero/>
-    < Project/>
-    < About/>
+    < Services />
+    < Navbar />
+    < Portfolio />
+    < About />
     < Contact/>
     < Footer/>
     </div>

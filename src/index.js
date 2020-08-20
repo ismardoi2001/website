@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import"../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import Card from './Components/CardUI';
+import Card from './Components/CardUIs';
 
 ReactDOM.render(<App />,document.getElementById('root'));
 
